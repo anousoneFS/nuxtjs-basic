@@ -26,6 +26,9 @@ export default {
       }
     },
     mode: 'universal',
-    target: 'static'
+    target: 'static',
+    router:{
+      base: '/nuxtjs-example-deploy'
+    }
   }
   
