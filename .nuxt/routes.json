@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6adcc7b0"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_46e9730f"
+  },
+  {
+    "name": "photos",
+    "path": "/photos",
+    "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/photos/index.vue",
+    "chunkName": "pages/photos/index",
+    "_name": "_09feeff1"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/users/index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_47c796ee"
+  },
+  {
+    "name": "photos-id",
+    "path": "/photos/:id",
+    "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/photos/_id.vue",
+    "chunkName": "pages/photos/_id",
+    "_name": "_408b8ace"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_108a7cd6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ead6bb16"
+  }
+]
