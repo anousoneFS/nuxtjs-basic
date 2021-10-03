@@ -3,49 +3,42 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/about.vue",
-    "chunkName": "pages/about",
-    "_name": "_6adcc7b0"
+    "chunkName": "pages/about"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/login/index.vue",
-    "chunkName": "pages/login/index",
-    "_name": "_46e9730f"
+    "chunkName": "pages/login/index"
   },
   {
     "name": "photos",
     "path": "/photos",
     "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/photos/index.vue",
-    "chunkName": "pages/photos/index",
-    "_name": "_09feeff1"
+    "chunkName": "pages/photos/index"
   },
   {
     "name": "users",
     "path": "/users",
     "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/users/index.vue",
-    "chunkName": "pages/users/index",
-    "_name": "_47c796ee"
+    "chunkName": "pages/users/index"
   },
   {
     "name": "photos-id",
     "path": "/photos/:id",
     "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/photos/_id.vue",
-    "chunkName": "pages/photos/_id",
-    "_name": "_408b8ace"
+    "chunkName": "pages/photos/_id"
   },
   {
     "name": "users-id",
     "path": "/users/:id",
     "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/users/_id.vue",
-    "chunkName": "pages/users/_id",
-    "_name": "_108a7cd6"
+    "chunkName": "pages/users/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/anousonefs/Desktop/basic-nuxt/hello-nuxtjs/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_ead6bb16"
+    "chunkName": "pages/index"
   }
 ]

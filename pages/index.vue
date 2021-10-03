@@ -33,6 +33,11 @@ export default {
             await this.$auth.logout();
             this.$router.push('/login');
         }
+    },
+    head(){
+        return {
+            title:"this is index title"
+        }
     }
 }
 </script>

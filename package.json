@@ -9,7 +9,8 @@
     "generate": "nuxt generate",
     "build": "nuxt build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy:ghpages": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "deploy:ghpages": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "dev:host": "nuxt --hostname '0' --port 3000"
   },
   "keywords": [],
   "author": "",
